@@ -1,0 +1,12 @@
+title: Odds and Bits
+author: Davor Cubranic
+#email: your-email@domain.com
+description: >
+  A blog about computing, from retro- to HPC.
+twitter_username: OddsAndBits
+github_username: cubranic
+rss: rss
+
+theme: minima
+exclude:
+  - Drafts
